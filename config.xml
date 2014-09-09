@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>eyowo</name>
+            <displayName><![CDATA[Eyowo]]></displayName>
+            <version><![CDATA[1.1]]></version>
+            <description><![CDATA[Integrate eyowo with PresatShop easily, with NGN [You will need to create this currency manually, ISO-CODE:NGN, Numeric ISO-CODE:566] currency only. Contact me for bugs http://godson.com.ng]]></description>
+            <author><![CDATA[GodsonUkpere]]></author>
+            <tab><![CDATA[payments_gateways]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>
